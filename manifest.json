@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Latest News Fetcher",
+    "name": "AAJTAK",
     "version": "1.0",
     "description": "Get the latest news whenever you click the extension.",
     "permissions": ["storage"],
